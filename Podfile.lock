@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.10.2)
+  - Kingfisher (8.3.0)
+  - LookinServer/Core (1.2.8)
+  - LookinServer/Swift (1.2.8):
+    - LookinServer/Core
+  - Realm (10.54.3):
+    - Realm/Headers (= 10.54.3)
+  - Realm/Headers (10.54.3)
+  - RealmSwift (10.54.3):
+    - Realm (= 10.54.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 8.0)
+  - LookinServer/Swift
+  - RealmSwift (~> 10)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - LookinServer
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  Kingfisher: 00841bd9d22a65bb3731f41a1f7715e63788a7aa
+  LookinServer: 1b2b61c6402ae29fa22182d48f5cd067b4e99e80
+  Realm: 5383a96518b1dbff38b3403330e1d2e27f25c17c
+  RealmSwift: 87fd7ca547e4cbbfbe0be2b0b2fb1ac7b95753e2
+
+PODFILE CHECKSUM: d7fddd865e7c9e2625c3fd01004047d2c7343bd9
+
+COCOAPODS: 1.16.2
